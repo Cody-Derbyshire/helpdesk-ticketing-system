@@ -1,0 +1,4 @@
+CODYD,Cody,cody@email.com,Password Change,New password generated ->COCod,Closed
+INNAM,Inna,inna@whitecliffe.co.nz,My monitor stopped working,Replaced Monitor,Closed
+MARIAH,Maria,maria@whitecliffe.co.nz,Request for a video camera to conduct webinars,Camera Provided,Closed
+JOHNS,John,john@whitecliffe.co.nz,Password Change,New password generated ->JOJoh,Closed
