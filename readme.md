@@ -25,8 +25,34 @@ The Help Desk Ticketing System is a simple Python application that allows you to
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/help-desk-ticketing-system.git
-   cd help-desk-ticketing-system
+   git clone https://github.com/Cody-Derbyshire/helpdesk-ticketing-system.git
+   cd helpdesk-ticketing-system
+   
+   # OR
+   
+   gh repo clone Cody-Derbyshire/helpdesk-ticketing-system
+   cd helpdesk-ticketing-system
+   ```
+
+## Run
+
+```bash
+python gui.py
+```
+
+## Usage
+
+- Open the application to access the Help Desk Ticketing System.
+- Create new tickets by providing staff ID, creator name, contact email, and a description of the issue.
+- Respond to tickets and update their status as resolved or reopened.
+- View and list all created tickets in the main window.
+- Click on a ticket in the list to view its details.
+- Display ticket statistics to track the number of created, resolved, and open tickets.
+- Use the "Exit" button to close the application.
+
+### Enjoy!
+
+Created by Cody Derbyshire - October 2023
