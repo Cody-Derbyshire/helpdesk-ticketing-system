@@ -39,8 +39,14 @@ Clone the repository:
 
 ## Run
 
+Run with GUI
 ```bash
 python gui.py
+```
+
+Run with CLI
+```bash
+python main.py
 ```
 
 ## Usage
@@ -51,8 +57,8 @@ python gui.py
 - View and list all created tickets in the main window.
 - Click on a ticket in the list to view its details.
 - Display ticket statistics to track the number of created, resolved, and open tickets.
-- Use the "Exit" button to close the application.
 
 ### Enjoy!
 
 Created by Cody Derbyshire - October 2023
+
